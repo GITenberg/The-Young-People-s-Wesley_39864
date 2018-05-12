@@ -1,0 +1,37 @@
+_repo: The-Young-People-s-Wesley_39864
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Mallalieu, Willard F. (Willard Francis)
+    aliases:
+    - Mallalieu, Bishop W. F.
+    - Mallalien, Willard F. (Willard Francis)
+    birthdate: 1828
+    deathdate: 1911
+    gutenberg_agent_id: '40274'
+    url: http://www.gutenberg.org/2009/agents/40274
+covers:
+- cover_type: archival
+  image_path: 39864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McDonald, W. (William)
+    alias: McDonald, William
+    birthdate: 1820
+    deathdate: 1901
+    gutenberg_agent_id: '40273'
+    url: http://www.gutenberg.org/2009/agents/40273
+description: ''
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Wesley, John, 1703-1791'
+title: The Young People's Wesley
+url: http://www.gutenberg.org/ebooks/39864
