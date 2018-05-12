@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '40273'
     url: http://www.gutenberg.org/2009/agents/40273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39864#The-Young-People-s-Wesley
 gutenberg_issued: '2012-05-31'
 gutenberg_type: Text
 identifiers:
